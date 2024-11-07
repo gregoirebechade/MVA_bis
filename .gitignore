@@ -1,0 +1,6 @@
+# on ignore les fichiers volumineux 
+signal_processing/TP3/samples.hdf5
+signal_processing/TP3/test.hdf5
+signal_processing/TP3/train.hdf5
+signal_processing/TP3/validation.hdf5
+signal_processinf/tewt.txt
