@@ -1,0 +1,298 @@
+n_estimators: 10, res_ada: {'confusion matrix': array([[203,  12],
+       [ 47, 166]]), 'precision': 0.9325842696629213, 'recall': 0.7793427230046949, 'accuracy': 0.8621495327102804}, res_ada_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 10, res_ada: {'confusion matrix': array([[203,  12],
+       [ 47, 166]]), 'precision': 0.9325842696629213, 'recall': 0.7793427230046949, 'accuracy': 0.8621495327102804}, res_ada_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+max_depth: 2, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 32, 181]]), 'precision': 0.9141414141414141, 'recall': 0.8497652582159625, 'accuracy': 0.8855140186915887}, res_xgb_scaled: {'confusion matrix': array([[204,  11],
+       [152,  61]]), 'precision': 0.8472222222222222, 'recall': 0.2863849765258216, 'accuracy': 0.6191588785046729}
+n_estimators: 10, max_depth: 2, res_gb: {'confusion matrix': array([[215,   0],
+       [ 94, 119]]), 'precision': 1.0, 'recall': 0.5586854460093896, 'accuracy': 0.780373831775701}, res_rf: {'confusion matrix': array([[209,   6],
+       [107, 106]]), 'precision': 0.9464285714285714, 'recall': 0.49765258215962443, 'accuracy': 0.735981308411215}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+max_depth: 4, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[196,  19],
+       [ 35, 178]]), 'precision': 0.9035532994923858, 'recall': 0.8356807511737089, 'accuracy': 0.8738317757009346}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [204,   9]]), 'precision': 1.0, 'recall': 0.04225352112676056, 'accuracy': 0.5233644859813084}
+n_estimators: 10, max_depth: 4, res_gb: {'confusion matrix': array([[210,   5],
+       [ 74, 139]]), 'precision': 0.9652777777777778, 'recall': 0.6525821596244131, 'accuracy': 0.8154205607476636}, res_rf: {'confusion matrix': array([[211,   4],
+       [ 85, 128]]), 'precision': 0.9696969696969697, 'recall': 0.6009389671361502, 'accuracy': 0.7920560747663551}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [135,  78]]), 'precision': 1.0, 'recall': 0.36619718309859156, 'accuracy': 0.6845794392523364}
+max_depth: 6, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 30, 183]]), 'precision': 0.9195979899497487, 'recall': 0.8591549295774648, 'accuracy': 0.8925233644859814}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [208,   5]]), 'precision': 1.0, 'recall': 0.023474178403755867, 'accuracy': 0.514018691588785}
+n_estimators: 10, max_depth: 6, res_gb: {'confusion matrix': array([[202,  13],
+       [ 41, 172]]), 'precision': 0.9297297297297298, 'recall': 0.8075117370892019, 'accuracy': 0.8738317757009346}, res_rf: {'confusion matrix': array([[204,  11],
+       [ 75, 138]]), 'precision': 0.9261744966442953, 'recall': 0.647887323943662, 'accuracy': 0.7990654205607477}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [135,  78]]), 'precision': 1.0, 'recall': 0.36619718309859156, 'accuracy': 0.6845794392523364}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [205,   8]]), 'precision': 1.0, 'recall': 0.03755868544600939, 'accuracy': 0.5210280373831776}
+max_depth: 8, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 28, 185]]), 'precision': 0.9158415841584159, 'recall': 0.8685446009389671, 'accuracy': 0.8948598130841121}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 10, max_depth: 8, res_gb: {'confusion matrix': array([[197,  18],
+       [ 38, 175]]), 'precision': 0.9067357512953368, 'recall': 0.8215962441314554, 'accuracy': 0.8691588785046729}, res_rf: {'confusion matrix': array([[198,  17],
+       [ 52, 161]]), 'precision': 0.9044943820224719, 'recall': 0.755868544600939, 'accuracy': 0.8387850467289719}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [130,  83]]), 'precision': 1.0, 'recall': 0.38967136150234744, 'accuracy': 0.6962616822429907}
+max_depth: 10, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [211,   2]]), 'precision': 1.0, 'recall': 0.009389671361502348, 'accuracy': 0.5070093457943925}
+n_estimators: 10, max_depth: 10, res_gb: {'confusion matrix': array([[195,  20],
+       [ 30, 183]]), 'precision': 0.9014778325123153, 'recall': 0.8591549295774648, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[197,  18],
+       [ 49, 164]]), 'precision': 0.9010989010989011, 'recall': 0.7699530516431925, 'accuracy': 0.8434579439252337}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [104, 109]]), 'precision': 0.6449704142011834, 'recall': 0.5117370892018779, 'accuracy': 0.616822429906542}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [136,  77]]), 'precision': 1.0, 'recall': 0.3615023474178404, 'accuracy': 0.6822429906542056}
+max_depth: 15, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[200,  15],
+       [ 26, 187]]), 'precision': 0.9257425742574258, 'recall': 0.8779342723004695, 'accuracy': 0.9042056074766355}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 10, max_depth: 15, res_gb: {'confusion matrix': array([[196,  19],
+       [ 33, 180]]), 'precision': 0.9045226130653267, 'recall': 0.8450704225352113, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[191,  24],
+       [ 48, 165]]), 'precision': 0.873015873015873, 'recall': 0.7746478873239436, 'accuracy': 0.8317757009345794}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [103, 110]]), 'precision': 0.6470588235294118, 'recall': 0.5164319248826291, 'accuracy': 0.6191588785046729}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [126,  87]]), 'precision': 1.0, 'recall': 0.4084507042253521, 'accuracy': 0.705607476635514}
+max_depth: 20, n_estimator: 10,  res_xgboost: {'confusion matrix': array([[197,  18],
+       [ 29, 184]]), 'precision': 0.9108910891089109, 'recall': 0.863849765258216, 'accuracy': 0.8901869158878505}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [201,  12]]), 'precision': 1.0, 'recall': 0.056338028169014086, 'accuracy': 0.530373831775701}
+n_estimators: 10, max_depth: 20, res_gb: {'confusion matrix': array([[195,  20],
+       [ 37, 176]]), 'precision': 0.8979591836734694, 'recall': 0.8262910798122066, 'accuracy': 0.866822429906542}, res_rf: {'confusion matrix': array([[188,  27],
+       [ 48, 165]]), 'precision': 0.859375, 'recall': 0.7746478873239436, 'accuracy': 0.8247663551401869}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [103, 110]]), 'precision': 0.6470588235294118, 'recall': 0.5164319248826291, 'accuracy': 0.6191588785046729}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [138,  75]]), 'precision': 1.0, 'recall': 0.352112676056338, 'accuracy': 0.677570093457944}
+n_estimators: 50, res_ada: {'confusion matrix': array([[198,  17],
+       [ 31, 182]]), 'precision': 0.914572864321608, 'recall': 0.8544600938967136, 'accuracy': 0.8878504672897196}, res_ada_scaled: {'confusion matrix': array([[215,   0],
+       [183,  30]]), 'precision': 1.0, 'recall': 0.14084507042253522, 'accuracy': 0.572429906542056}
+max_depth: 2, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 32, 181]]), 'precision': 0.9141414141414141, 'recall': 0.8497652582159625, 'accuracy': 0.8855140186915887}, res_xgb_scaled: {'confusion matrix': array([[204,  11],
+       [152,  61]]), 'precision': 0.8472222222222222, 'recall': 0.2863849765258216, 'accuracy': 0.6191588785046729}
+n_estimators: 50, max_depth: 2, res_gb: {'confusion matrix': array([[205,  10],
+       [ 42, 171]]), 'precision': 0.9447513812154696, 'recall': 0.8028169014084507, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[208,   7],
+       [ 79, 134]]), 'precision': 0.950354609929078, 'recall': 0.6291079812206573, 'accuracy': 0.7990654205607477}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [153,  60]]), 'precision': 1.0, 'recall': 0.28169014084507044, 'accuracy': 0.6425233644859814}
+max_depth: 4, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[196,  19],
+       [ 35, 178]]), 'precision': 0.9035532994923858, 'recall': 0.8356807511737089, 'accuracy': 0.8738317757009346}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [204,   9]]), 'precision': 1.0, 'recall': 0.04225352112676056, 'accuracy': 0.5233644859813084}
+n_estimators: 50, max_depth: 4, res_gb: {'confusion matrix': array([[200,  15],
+       [ 33, 180]]), 'precision': 0.9230769230769231, 'recall': 0.8450704225352113, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[214,   1],
+       [ 80, 133]]), 'precision': 0.9925373134328358, 'recall': 0.6244131455399061, 'accuracy': 0.8107476635514018}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [140,  73]]), 'precision': 1.0, 'recall': 0.3427230046948357, 'accuracy': 0.6728971962616822}
+max_depth: 6, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 30, 183]]), 'precision': 0.9195979899497487, 'recall': 0.8591549295774648, 'accuracy': 0.8925233644859814}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [208,   5]]), 'precision': 1.0, 'recall': 0.023474178403755867, 'accuracy': 0.514018691588785}
+n_estimators: 50, max_depth: 6, res_gb: {'confusion matrix': array([[201,  14],
+       [ 35, 178]]), 'precision': 0.9270833333333334, 'recall': 0.8356807511737089, 'accuracy': 0.8855140186915887}, res_rf: {'confusion matrix': array([[211,   4],
+       [ 75, 138]]), 'precision': 0.971830985915493, 'recall': 0.647887323943662, 'accuracy': 0.8154205607476636}, res_gb_scaled: {'confusion matrix': array([[213,   2],
+       [130,  83]]), 'precision': 0.9764705882352941, 'recall': 0.38967136150234744, 'accuracy': 0.6915887850467289}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [136,  77]]), 'precision': 1.0, 'recall': 0.3615023474178404, 'accuracy': 0.6822429906542056}
+max_depth: 8, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 28, 185]]), 'precision': 0.9158415841584159, 'recall': 0.8685446009389671, 'accuracy': 0.8948598130841121}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 50, max_depth: 8, res_gb: {'confusion matrix': array([[199,  16],
+       [ 29, 184]]), 'precision': 0.92, 'recall': 0.863849765258216, 'accuracy': 0.8948598130841121}, res_rf: {'confusion matrix': array([[207,   8],
+       [ 52, 161]]), 'precision': 0.9526627218934911, 'recall': 0.755868544600939, 'accuracy': 0.8598130841121495}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [132,  81]]), 'precision': 1.0, 'recall': 0.38028169014084506, 'accuracy': 0.6915887850467289}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [147,  66]]), 'precision': 1.0, 'recall': 0.30985915492957744, 'accuracy': 0.6565420560747663}
+max_depth: 10, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [211,   2]]), 'precision': 1.0, 'recall': 0.009389671361502348, 'accuracy': 0.5070093457943925}
+n_estimators: 50, max_depth: 10, res_gb: {'confusion matrix': array([[199,  16],
+       [ 34, 179]]), 'precision': 0.9179487179487179, 'recall': 0.8403755868544601, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[203,  12],
+       [ 44, 169]]), 'precision': 0.9337016574585635, 'recall': 0.7934272300469484, 'accuracy': 0.8691588785046729}, res_gb_scaled: {'confusion matrix': array([[209,   6],
+       [125,  88]]), 'precision': 0.9361702127659575, 'recall': 0.4131455399061033, 'accuracy': 0.6939252336448598}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [125,  88]]), 'precision': 1.0, 'recall': 0.4131455399061033, 'accuracy': 0.7079439252336449}
+max_depth: 15, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[200,  15],
+       [ 26, 187]]), 'precision': 0.9257425742574258, 'recall': 0.8779342723004695, 'accuracy': 0.9042056074766355}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 50, max_depth: 15, res_gb: {'confusion matrix': array([[195,  20],
+       [ 36, 177]]), 'precision': 0.8984771573604061, 'recall': 0.8309859154929577, 'accuracy': 0.8691588785046729}, res_rf: {'confusion matrix': array([[203,  12],
+       [ 40, 173]]), 'precision': 0.9351351351351351, 'recall': 0.812206572769953, 'accuracy': 0.8785046728971962}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [ 98, 115]]), 'precision': 0.6571428571428571, 'recall': 0.539906103286385, 'accuracy': 0.6308411214953271}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [122,  91]]), 'precision': 1.0, 'recall': 0.4272300469483568, 'accuracy': 0.7149532710280374}
+max_depth: 20, n_estimator: 50,  res_xgboost: {'confusion matrix': array([[197,  18],
+       [ 29, 184]]), 'precision': 0.9108910891089109, 'recall': 0.863849765258216, 'accuracy': 0.8901869158878505}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [201,  12]]), 'precision': 1.0, 'recall': 0.056338028169014086, 'accuracy': 0.530373831775701}
+n_estimators: 50, max_depth: 20, res_gb: {'confusion matrix': array([[195,  20],
+       [ 37, 176]]), 'precision': 0.8979591836734694, 'recall': 0.8262910798122066, 'accuracy': 0.866822429906542}, res_rf: {'confusion matrix': array([[203,  12],
+       [ 41, 172]]), 'precision': 0.9347826086956522, 'recall': 0.8075117370892019, 'accuracy': 0.8761682242990654}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [ 99, 114]]), 'precision': 0.6551724137931034, 'recall': 0.5352112676056338, 'accuracy': 0.6285046728971962}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [132,  81]]), 'precision': 1.0, 'recall': 0.38028169014084506, 'accuracy': 0.6915887850467289}
+n_estimators: 100, res_ada: {'confusion matrix': array([[196,  19],
+       [ 33, 180]]), 'precision': 0.9045226130653267, 'recall': 0.8450704225352113, 'accuracy': 0.8785046728971962}, res_ada_scaled: {'confusion matrix': array([[206,   9],
+       [134,  79]]), 'precision': 0.8977272727272727, 'recall': 0.37089201877934275, 'accuracy': 0.6658878504672897}
+max_depth: 2, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 32, 181]]), 'precision': 0.9141414141414141, 'recall': 0.8497652582159625, 'accuracy': 0.8855140186915887}, res_xgb_scaled: {'confusion matrix': array([[204,  11],
+       [152,  61]]), 'precision': 0.8472222222222222, 'recall': 0.2863849765258216, 'accuracy': 0.6191588785046729}
+n_estimators: 100, max_depth: 2, res_gb: {'confusion matrix': array([[203,  12],
+       [ 36, 177]]), 'precision': 0.9365079365079365, 'recall': 0.8309859154929577, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[210,   5],
+       [ 81, 132]]), 'precision': 0.9635036496350365, 'recall': 0.6197183098591549, 'accuracy': 0.7990654205607477}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [163,  50]]), 'precision': 1.0, 'recall': 0.2347417840375587, 'accuracy': 0.6191588785046729}
+max_depth: 4, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[196,  19],
+       [ 35, 178]]), 'precision': 0.9035532994923858, 'recall': 0.8356807511737089, 'accuracy': 0.8738317757009346}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [204,   9]]), 'precision': 1.0, 'recall': 0.04225352112676056, 'accuracy': 0.5233644859813084}
+n_estimators: 100, max_depth: 4, res_gb: {'confusion matrix': array([[200,  15],
+       [ 36, 177]]), 'precision': 0.921875, 'recall': 0.8309859154929577, 'accuracy': 0.8808411214953271}, res_rf: {'confusion matrix': array([[212,   3],
+       [ 82, 131]]), 'precision': 0.9776119402985075, 'recall': 0.6150234741784038, 'accuracy': 0.8014018691588785}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [127,  86]]), 'precision': 1.0, 'recall': 0.40375586854460094, 'accuracy': 0.7032710280373832}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [140,  73]]), 'precision': 1.0, 'recall': 0.3427230046948357, 'accuracy': 0.6728971962616822}
+max_depth: 6, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 30, 183]]), 'precision': 0.9195979899497487, 'recall': 0.8591549295774648, 'accuracy': 0.8925233644859814}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [208,   5]]), 'precision': 1.0, 'recall': 0.023474178403755867, 'accuracy': 0.514018691588785}
+n_estimators: 100, max_depth: 6, res_gb: {'confusion matrix': array([[202,  13],
+       [ 37, 176]]), 'precision': 0.9312169312169312, 'recall': 0.8262910798122066, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[210,   5],
+       [ 74, 139]]), 'precision': 0.9652777777777778, 'recall': 0.6525821596244131, 'accuracy': 0.8154205607476636}, res_gb_scaled: {'confusion matrix': array([[214,   1],
+       [129,  84]]), 'precision': 0.9882352941176471, 'recall': 0.39436619718309857, 'accuracy': 0.6962616822429907}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [154,  59]]), 'precision': 1.0, 'recall': 0.27699530516431925, 'accuracy': 0.6401869158878505}
+max_depth: 8, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 28, 185]]), 'precision': 0.9158415841584159, 'recall': 0.8685446009389671, 'accuracy': 0.8948598130841121}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 100, max_depth: 8, res_gb: {'confusion matrix': array([[199,  16],
+       [ 31, 182]]), 'precision': 0.9191919191919192, 'recall': 0.8544600938967136, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[207,   8],
+       [ 60, 153]]), 'precision': 0.9503105590062112, 'recall': 0.7183098591549296, 'accuracy': 0.8411214953271028}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+max_depth: 10, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [211,   2]]), 'precision': 1.0, 'recall': 0.009389671361502348, 'accuracy': 0.5070093457943925}
+n_estimators: 100, max_depth: 10, res_gb: {'confusion matrix': array([[198,  17],
+       [ 35, 178]]), 'precision': 0.9128205128205128, 'recall': 0.8356807511737089, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[206,   9],
+       [ 56, 157]]), 'precision': 0.9457831325301205, 'recall': 0.7370892018779343, 'accuracy': 0.8481308411214953}, res_gb_scaled: {'confusion matrix': array([[211,   4],
+       [125,  88]]), 'precision': 0.9565217391304348, 'recall': 0.4131455399061033, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [131,  82]]), 'precision': 1.0, 'recall': 0.38497652582159625, 'accuracy': 0.6939252336448598}
+max_depth: 15, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[200,  15],
+       [ 26, 187]]), 'precision': 0.9257425742574258, 'recall': 0.8779342723004695, 'accuracy': 0.9042056074766355}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 100, max_depth: 15, res_gb: {'confusion matrix': array([[196,  19],
+       [ 37, 176]]), 'precision': 0.9025641025641026, 'recall': 0.8262910798122066, 'accuracy': 0.8691588785046729}, res_rf: {'confusion matrix': array([[200,  15],
+       [ 41, 172]]), 'precision': 0.9197860962566845, 'recall': 0.8075117370892019, 'accuracy': 0.8691588785046729}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [ 99, 114]]), 'precision': 0.6551724137931034, 'recall': 0.5352112676056338, 'accuracy': 0.6285046728971962}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [123,  90]]), 'precision': 1.0, 'recall': 0.4225352112676056, 'accuracy': 0.7126168224299065}
+max_depth: 20, n_estimator: 100,  res_xgboost: {'confusion matrix': array([[197,  18],
+       [ 29, 184]]), 'precision': 0.9108910891089109, 'recall': 0.863849765258216, 'accuracy': 0.8901869158878505}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [201,  12]]), 'precision': 1.0, 'recall': 0.056338028169014086, 'accuracy': 0.530373831775701}
+n_estimators: 100, max_depth: 20, res_gb: {'confusion matrix': array([[196,  19],
+       [ 37, 176]]), 'precision': 0.9025641025641026, 'recall': 0.8262910798122066, 'accuracy': 0.8691588785046729}, res_rf: {'confusion matrix': array([[199,  16],
+       [ 38, 175]]), 'precision': 0.9162303664921466, 'recall': 0.8215962441314554, 'accuracy': 0.8738317757009346}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [100, 113]]), 'precision': 0.653179190751445, 'recall': 0.5305164319248826, 'accuracy': 0.6261682242990654}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+n_estimators: 200, res_ada: {'confusion matrix': array([[194,  21],
+       [ 32, 181]]), 'precision': 0.8960396039603961, 'recall': 0.8497652582159625, 'accuracy': 0.8761682242990654}, res_ada_scaled: {'confusion matrix': array([[215,   0],
+       [210,   3]]), 'precision': 1.0, 'recall': 0.014084507042253521, 'accuracy': 0.5093457943925234}
+max_depth: 2, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 32, 181]]), 'precision': 0.9141414141414141, 'recall': 0.8497652582159625, 'accuracy': 0.8855140186915887}, res_xgb_scaled: {'confusion matrix': array([[204,  11],
+       [152,  61]]), 'precision': 0.8472222222222222, 'recall': 0.2863849765258216, 'accuracy': 0.6191588785046729}
+n_estimators: 200, max_depth: 2, res_gb: {'confusion matrix': array([[200,  15],
+       [ 33, 180]]), 'precision': 0.9230769230769231, 'recall': 0.8450704225352113, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[210,   5],
+       [ 90, 123]]), 'precision': 0.9609375, 'recall': 0.5774647887323944, 'accuracy': 0.7780373831775701}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [126,  87]]), 'precision': 1.0, 'recall': 0.4084507042253521, 'accuracy': 0.705607476635514}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+max_depth: 4, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[196,  19],
+       [ 35, 178]]), 'precision': 0.9035532994923858, 'recall': 0.8356807511737089, 'accuracy': 0.8738317757009346}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [204,   9]]), 'precision': 1.0, 'recall': 0.04225352112676056, 'accuracy': 0.5233644859813084}
+n_estimators: 200, max_depth: 4, res_gb: {'confusion matrix': array([[201,  14],
+       [ 36, 177]]), 'precision': 0.9267015706806283, 'recall': 0.8309859154929577, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[213,   2],
+       [ 82, 131]]), 'precision': 0.9849624060150376, 'recall': 0.6150234741784038, 'accuracy': 0.8037383177570093}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [123,  90]]), 'precision': 1.0, 'recall': 0.4225352112676056, 'accuracy': 0.7126168224299065}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+max_depth: 6, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 30, 183]]), 'precision': 0.9195979899497487, 'recall': 0.8591549295774648, 'accuracy': 0.8925233644859814}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [208,   5]]), 'precision': 1.0, 'recall': 0.023474178403755867, 'accuracy': 0.514018691588785}
+n_estimators: 200, max_depth: 6, res_gb: {'confusion matrix': array([[202,  13],
+       [ 35, 178]]), 'precision': 0.9319371727748691, 'recall': 0.8356807511737089, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[209,   6],
+       [ 72, 141]]), 'precision': 0.9591836734693877, 'recall': 0.6619718309859155, 'accuracy': 0.8177570093457944}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [131,  82]]), 'precision': 1.0, 'recall': 0.38497652582159625, 'accuracy': 0.6939252336448598}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+max_depth: 8, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 28, 185]]), 'precision': 0.9158415841584159, 'recall': 0.8685446009389671, 'accuracy': 0.8948598130841121}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 200, max_depth: 8, res_gb: {'confusion matrix': array([[200,  15],
+       [ 32, 181]]), 'precision': 0.923469387755102, 'recall': 0.8497652582159625, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[206,   9],
+       [ 56, 157]]), 'precision': 0.9457831325301205, 'recall': 0.7370892018779343, 'accuracy': 0.8481308411214953}, res_gb_scaled: {'confusion matrix': array([[211,   4],
+       [125,  88]]), 'precision': 0.9565217391304348, 'recall': 0.4131455399061033, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+max_depth: 10, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [211,   2]]), 'precision': 1.0, 'recall': 0.009389671361502348, 'accuracy': 0.5070093457943925}
+n_estimators: 200, max_depth: 10, res_gb: {'confusion matrix': array([[200,  15],
+       [ 30, 183]]), 'precision': 0.9242424242424242, 'recall': 0.8591549295774648, 'accuracy': 0.8948598130841121}, res_rf: {'confusion matrix': array([[206,   9],
+       [ 52, 161]]), 'precision': 0.9470588235294117, 'recall': 0.755868544600939, 'accuracy': 0.8574766355140186}, res_gb_scaled: {'confusion matrix': array([[210,   5],
+       [122,  91]]), 'precision': 0.9479166666666666, 'recall': 0.4272300469483568, 'accuracy': 0.7032710280373832}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}
+max_depth: 15, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[200,  15],
+       [ 26, 187]]), 'precision': 0.9257425742574258, 'recall': 0.8779342723004695, 'accuracy': 0.9042056074766355}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 200, max_depth: 15, res_gb: {'confusion matrix': array([[198,  17],
+       [ 36, 177]]), 'precision': 0.9123711340206185, 'recall': 0.8309859154929577, 'accuracy': 0.8761682242990654}, res_rf: {'confusion matrix': array([[200,  15],
+       [ 44, 169]]), 'precision': 0.9184782608695652, 'recall': 0.7934272300469484, 'accuracy': 0.8621495327102804}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [ 99, 114]]), 'precision': 0.6551724137931034, 'recall': 0.5352112676056338, 'accuracy': 0.6285046728971962}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [127,  86]]), 'precision': 1.0, 'recall': 0.40375586854460094, 'accuracy': 0.7032710280373832}
+max_depth: 20, n_estimator: 200,  res_xgboost: {'confusion matrix': array([[197,  18],
+       [ 29, 184]]), 'precision': 0.9108910891089109, 'recall': 0.863849765258216, 'accuracy': 0.8901869158878505}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [201,  12]]), 'precision': 1.0, 'recall': 0.056338028169014086, 'accuracy': 0.530373831775701}
+n_estimators: 200, max_depth: 20, res_gb: {'confusion matrix': array([[198,  17],
+       [ 37, 176]]), 'precision': 0.9119170984455959, 'recall': 0.8262910798122066, 'accuracy': 0.8738317757009346}, res_rf: {'confusion matrix': array([[202,  13],
+       [ 39, 174]]), 'precision': 0.93048128342246, 'recall': 0.8169014084507042, 'accuracy': 0.8785046728971962}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [100, 113]]), 'precision': 0.653179190751445, 'recall': 0.5305164319248826, 'accuracy': 0.6261682242990654}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}
+n_estimators: 500, res_ada: {'confusion matrix': array([[192,  23],
+       [ 29, 184]]), 'precision': 0.8888888888888888, 'recall': 0.863849765258216, 'accuracy': 0.8785046728971962}, res_ada_scaled: {'confusion matrix': array([[215,   0],
+       [202,  11]]), 'precision': 1.0, 'recall': 0.051643192488262914, 'accuracy': 0.5280373831775701}
+max_depth: 2, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 32, 181]]), 'precision': 0.9141414141414141, 'recall': 0.8497652582159625, 'accuracy': 0.8855140186915887}, res_xgb_scaled: {'confusion matrix': array([[204,  11],
+       [152,  61]]), 'precision': 0.8472222222222222, 'recall': 0.2863849765258216, 'accuracy': 0.6191588785046729}
+n_estimators: 500, max_depth: 2, res_gb: {'confusion matrix': array([[196,  19],
+       [ 31, 182]]), 'precision': 0.9054726368159204, 'recall': 0.8544600938967136, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[211,   4],
+       [ 82, 131]]), 'precision': 0.9703703703703703, 'recall': 0.6150234741784038, 'accuracy': 0.7990654205607477}, res_gb_scaled: {'confusion matrix': array([[188,  27],
+       [ 92, 121]]), 'precision': 0.8175675675675675, 'recall': 0.568075117370892, 'accuracy': 0.7219626168224299}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [136,  77]]), 'precision': 1.0, 'recall': 0.3615023474178404, 'accuracy': 0.6822429906542056}
+max_depth: 4, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[196,  19],
+       [ 35, 178]]), 'precision': 0.9035532994923858, 'recall': 0.8356807511737089, 'accuracy': 0.8738317757009346}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [204,   9]]), 'precision': 1.0, 'recall': 0.04225352112676056, 'accuracy': 0.5233644859813084}
+n_estimators: 500, max_depth: 4, res_gb: {'confusion matrix': array([[200,  15],
+       [ 36, 177]]), 'precision': 0.921875, 'recall': 0.8309859154929577, 'accuracy': 0.8808411214953271}, res_rf: {'confusion matrix': array([[213,   2],
+       [ 82, 131]]), 'precision': 0.9849624060150376, 'recall': 0.6150234741784038, 'accuracy': 0.8037383177570093}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [147,  66]]), 'precision': 1.0, 'recall': 0.30985915492957744, 'accuracy': 0.6565420560747663}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+max_depth: 6, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 30, 183]]), 'precision': 0.9195979899497487, 'recall': 0.8591549295774648, 'accuracy': 0.8925233644859814}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [208,   5]]), 'precision': 1.0, 'recall': 0.023474178403755867, 'accuracy': 0.514018691588785}
+n_estimators: 500, max_depth: 6, res_gb: {'confusion matrix': array([[201,  14],
+       [ 39, 174]]), 'precision': 0.925531914893617, 'recall': 0.8169014084507042, 'accuracy': 0.8761682242990654}, res_rf: {'confusion matrix': array([[211,   4],
+       [ 73, 140]]), 'precision': 0.9722222222222222, 'recall': 0.6572769953051644, 'accuracy': 0.8200934579439252}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [131,  82]]), 'precision': 1.0, 'recall': 0.38497652582159625, 'accuracy': 0.6939252336448598}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+max_depth: 8, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[198,  17],
+       [ 28, 185]]), 'precision': 0.9158415841584159, 'recall': 0.8685446009389671, 'accuracy': 0.8948598130841121}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 500, max_depth: 8, res_gb: {'confusion matrix': array([[201,  14],
+       [ 31, 182]]), 'precision': 0.9285714285714286, 'recall': 0.8544600938967136, 'accuracy': 0.8948598130841121}, res_rf: {'confusion matrix': array([[207,   8],
+       [ 56, 157]]), 'precision': 0.9515151515151515, 'recall': 0.7370892018779343, 'accuracy': 0.8504672897196262}, res_gb_scaled: {'confusion matrix': array([[211,   4],
+       [123,  90]]), 'precision': 0.9574468085106383, 'recall': 0.4225352112676056, 'accuracy': 0.7032710280373832}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+max_depth: 10, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [211,   2]]), 'precision': 1.0, 'recall': 0.009389671361502348, 'accuracy': 0.5070093457943925}
+n_estimators: 500, max_depth: 10, res_gb: {'confusion matrix': array([[199,  16],
+       [ 31, 182]]), 'precision': 0.9191919191919192, 'recall': 0.8544600938967136, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[205,  10],
+       [ 49, 164]]), 'precision': 0.9425287356321839, 'recall': 0.7699530516431925, 'accuracy': 0.8621495327102804}, res_gb_scaled: {'confusion matrix': array([[211,   4],
+       [121,  92]]), 'precision': 0.9583333333333334, 'recall': 0.431924882629108, 'accuracy': 0.7079439252336449}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}
+max_depth: 15, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[200,  15],
+       [ 26, 187]]), 'precision': 0.9257425742574258, 'recall': 0.8779342723004695, 'accuracy': 0.9042056074766355}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [213,   0]]), 'precision': 0.0, 'recall': 0.0, 'accuracy': 0.5023364485981309}
+n_estimators: 500, max_depth: 15, res_gb: {'confusion matrix': array([[198,  17],
+       [ 36, 177]]), 'precision': 0.9123711340206185, 'recall': 0.8309859154929577, 'accuracy': 0.8761682242990654}, res_rf: {'confusion matrix': array([[202,  13],
+       [ 41, 172]]), 'precision': 0.9297297297297298, 'recall': 0.8075117370892019, 'accuracy': 0.8738317757009346}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [ 99, 114]]), 'precision': 0.6551724137931034, 'recall': 0.5352112676056338, 'accuracy': 0.6285046728971962}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [128,  85]]), 'precision': 1.0, 'recall': 0.39906103286384975, 'accuracy': 0.7009345794392523}
+max_depth: 20, n_estimator: 500,  res_xgboost: {'confusion matrix': array([[197,  18],
+       [ 29, 184]]), 'precision': 0.9108910891089109, 'recall': 0.863849765258216, 'accuracy': 0.8901869158878505}, res_xgb_scaled: {'confusion matrix': array([[215,   0],
+       [201,  12]]), 'precision': 1.0, 'recall': 0.056338028169014086, 'accuracy': 0.530373831775701}
+n_estimators: 500, max_depth: 20, res_gb: {'confusion matrix': array([[198,  17],
+       [ 37, 176]]), 'precision': 0.9119170984455959, 'recall': 0.8262910798122066, 'accuracy': 0.8738317757009346}, res_rf: {'confusion matrix': array([[201,  14],
+       [ 40, 173]]), 'precision': 0.9251336898395722, 'recall': 0.812206572769953, 'accuracy': 0.8738317757009346}, res_gb_scaled: {'confusion matrix': array([[155,  60],
+       [100, 113]]), 'precision': 0.653179190751445, 'recall': 0.5305164319248826, 'accuracy': 0.6261682242990654}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [130,  83]]), 'precision': 1.0, 'recall': 0.38967136150234744, 'accuracy': 0.6962616822429907}

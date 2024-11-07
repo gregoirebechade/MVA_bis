@@ -1,0 +1,85 @@
+n_estimators: 10, max_depth: 2, res_gb: {'confusion matrix': array([[215,   0],
+       [ 95, 118]], dtype=int64), 'precision': 1.0, 'recall': 0.5539906103286385, 'accuracy': 0.7780373831775701}, res_rf: {'confusion matrix': array([[196,  19],
+       [ 66, 147]], dtype=int64), 'precision': 0.8855421686746988, 'recall': 0.6901408450704225, 'accuracy': 0.8014018691588785}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]], dtype=int64), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [168,  45]], dtype=int64), 'precision': 1.0, 'recall': 0.2112676056338028, 'accuracy': 0.6074766355140186}
+n_estimators: 10, max_depth: 3, res_gb: {'confusion matrix': array([[215,   0],
+       [ 92, 121]], dtype=int64), 'precision': 1.0, 'recall': 0.568075117370892, 'accuracy': 0.7850467289719626}, res_rf: {'confusion matrix': array([[201,  14],
+       [ 62, 151]], dtype=int64), 'precision': 0.9151515151515152, 'recall': 0.7089201877934272, 'accuracy': 0.822429906542056}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]], dtype=int64), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]], dtype=int64), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 10, max_depth: 2, res_gb: {'confusion matrix': array([[215,   0],
+       [ 95, 118]]), 'precision': 1.0, 'recall': 0.5539906103286385, 'accuracy': 0.7780373831775701}, res_rf: {'confusion matrix': array([[196,  19],
+       [ 66, 147]]), 'precision': 0.8855421686746988, 'recall': 0.6901408450704225, 'accuracy': 0.8014018691588785}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [168,  45]]), 'precision': 1.0, 'recall': 0.2112676056338028, 'accuracy': 0.6074766355140186}
+n_estimators: 10, max_depth: 3, res_gb: {'confusion matrix': array([[215,   0],
+       [ 92, 121]]), 'precision': 1.0, 'recall': 0.568075117370892, 'accuracy': 0.7850467289719626}, res_rf: {'confusion matrix': array([[201,  14],
+       [ 62, 151]]), 'precision': 0.9151515151515152, 'recall': 0.7089201877934272, 'accuracy': 0.822429906542056}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [149,  64]]), 'precision': 1.0, 'recall': 0.3004694835680751, 'accuracy': 0.6518691588785047}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 10, max_depth: 4, res_gb: {'confusion matrix': array([[209,   6],
+       [ 74, 139]]), 'precision': 0.9586206896551724, 'recall': 0.6525821596244131, 'accuracy': 0.8130841121495327}, res_rf: {'confusion matrix': array([[207,   8],
+       [ 68, 145]]), 'precision': 0.9477124183006536, 'recall': 0.6807511737089202, 'accuracy': 0.822429906542056}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [126,  87]]), 'precision': 1.0, 'recall': 0.4084507042253521, 'accuracy': 0.705607476635514}
+n_estimators: 50, max_depth: 2, res_gb: {'confusion matrix': array([[203,  12],
+       [ 46, 167]]), 'precision': 0.9329608938547486, 'recall': 0.784037558685446, 'accuracy': 0.8644859813084113}, res_rf: {'confusion matrix': array([[213,   2],
+       [106, 107]]), 'precision': 0.981651376146789, 'recall': 0.5023474178403756, 'accuracy': 0.7476635514018691}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 50, max_depth: 3, res_gb: {'confusion matrix': array([[202,  13],
+       [ 37, 176]]), 'precision': 0.9312169312169312, 'recall': 0.8262910798122066, 'accuracy': 0.883177570093458}, res_rf: {'confusion matrix': array([[212,   3],
+       [ 99, 114]]), 'precision': 0.9743589743589743, 'recall': 0.5352112676056338, 'accuracy': 0.7616822429906542}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 50, max_depth: 4, res_gb: {'confusion matrix': array([[201,  14],
+       [ 34, 179]]), 'precision': 0.927461139896373, 'recall': 0.8403755868544601, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[213,   2],
+       [ 86, 127]]), 'precision': 0.9844961240310077, 'recall': 0.596244131455399, 'accuracy': 0.794392523364486}, res_gb_scaled: {'confusion matrix': array([[214,   1],
+       [128,  85]]), 'precision': 0.9883720930232558, 'recall': 0.39906103286384975, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [133,  80]]), 'precision': 1.0, 'recall': 0.3755868544600939, 'accuracy': 0.6892523364485982}
+n_estimators: 100, max_depth: 2, res_gb: {'confusion matrix': array([[201,  14],
+       [ 35, 178]]), 'precision': 0.9270833333333334, 'recall': 0.8356807511737089, 'accuracy': 0.8855140186915887}, res_rf: {'confusion matrix': array([[213,   2],
+       [108, 105]]), 'precision': 0.9813084112149533, 'recall': 0.49295774647887325, 'accuracy': 0.7429906542056075}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [129,  84]]), 'precision': 1.0, 'recall': 0.39436619718309857, 'accuracy': 0.6985981308411215}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 100, max_depth: 3, res_gb: {'confusion matrix': array([[200,  15],
+       [ 37, 176]]), 'precision': 0.9214659685863874, 'recall': 0.8262910798122066, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[213,   2],
+       [103, 110]]), 'precision': 0.9821428571428571, 'recall': 0.5164319248826291, 'accuracy': 0.7546728971962616}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 100, max_depth: 4, res_gb: {'confusion matrix': array([[200,  15],
+       [ 31, 182]]), 'precision': 0.9238578680203046, 'recall': 0.8544600938967136, 'accuracy': 0.8925233644859814}, res_rf: {'confusion matrix': array([[214,   1],
+       [ 89, 124]]), 'precision': 0.992, 'recall': 0.5821596244131455, 'accuracy': 0.7897196261682243}, res_gb_scaled: {'confusion matrix': array([[212,   3],
+       [127,  86]]), 'precision': 0.9662921348314607, 'recall': 0.40375586854460094, 'accuracy': 0.6962616822429907}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 200, max_depth: 2, res_gb: {'confusion matrix': array([[200,  15],
+       [ 32, 181]]), 'precision': 0.923469387755102, 'recall': 0.8497652582159625, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[213,   2],
+       [109, 104]]), 'precision': 0.9811320754716981, 'recall': 0.48826291079812206, 'accuracy': 0.7406542056074766}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [126,  87]]), 'precision': 1.0, 'recall': 0.4084507042253521, 'accuracy': 0.705607476635514}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 200, max_depth: 3, res_gb: {'confusion matrix': array([[199,  16],
+       [ 31, 182]]), 'precision': 0.9191919191919192, 'recall': 0.8544600938967136, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[212,   3],
+       [105, 108]]), 'precision': 0.972972972972973, 'recall': 0.5070422535211268, 'accuracy': 0.7476635514018691}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 200, max_depth: 4, res_gb: {'confusion matrix': array([[201,  14],
+       [ 33, 180]]), 'precision': 0.9278350515463918, 'recall': 0.8450704225352113, 'accuracy': 0.8901869158878505}, res_rf: {'confusion matrix': array([[214,   1],
+       [ 86, 127]]), 'precision': 0.9921875, 'recall': 0.596244131455399, 'accuracy': 0.7967289719626168}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 500, max_depth: 2, res_gb: {'confusion matrix': array([[193,  22],
+       [ 30, 183]]), 'precision': 0.8926829268292683, 'recall': 0.8591549295774648, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[213,   2],
+       [107, 106]]), 'precision': 0.9814814814814815, 'recall': 0.49765258215962443, 'accuracy': 0.7453271028037384}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [132,  81]]), 'precision': 1.0, 'recall': 0.38028169014084506, 'accuracy': 0.6915887850467289}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 500, max_depth: 3, res_gb: {'confusion matrix': array([[199,  16],
+       [ 32, 181]]), 'precision': 0.9187817258883249, 'recall': 0.8497652582159625, 'accuracy': 0.8878504672897196}, res_rf: {'confusion matrix': array([[213,   2],
+       [ 99, 114]]), 'precision': 0.9827586206896551, 'recall': 0.5352112676056338, 'accuracy': 0.764018691588785}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [172,  41]]), 'precision': 1.0, 'recall': 0.19248826291079812, 'accuracy': 0.5981308411214953}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
+n_estimators: 500, max_depth: 4, res_gb: {'confusion matrix': array([[199,  16],
+       [ 36, 177]]), 'precision': 0.917098445595855, 'recall': 0.8309859154929577, 'accuracy': 0.8785046728971962}, res_rf: {'confusion matrix': array([[213,   2],
+       [ 83, 130]]), 'precision': 0.9848484848484849, 'recall': 0.6103286384976526, 'accuracy': 0.8014018691588785}, res_gb_scaled: {'confusion matrix': array([[215,   0],
+       [176,  37]]), 'precision': 1.0, 'recall': 0.17370892018779344, 'accuracy': 0.5887850467289719}, res_rf_scaled: {'confusion matrix': array([[215,   0],
+       [134,  79]]), 'precision': 1.0, 'recall': 0.37089201877934275, 'accuracy': 0.6869158878504673}
