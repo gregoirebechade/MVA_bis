@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1732012462 "c:/Users/grego/Documents/code/MVA_code/ML_for_time_series/TP2/report.tex" "report.pdf" "report" 1732012464 0
+["pdflatex"] 1732024646 "c:/Users/grego/Documents/code/MVA_code/ML_for_time_series/TP2/report.tex" "report.pdf" "report" 1732024649 0
   "C:/Users/grego/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731867202 113428 a280e18065651d82029025b185cb382a ""
   "C:/Users/grego/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk" 1719568932 21972 627d4bf072a874ad2ea2945c5cd63316 ""
   "C:/Users/grego/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1728661553 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -233,13 +233,15 @@
   "C:/Users/grego/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/grego/AppData/Local/Programs/MiKTeX/tex/latex/xsim/xsim.sty" 1644675661 180997 624efe72f8749c215172b82a0d546d9d ""
   "C:/Users/grego/AppData/Local/Programs/MiKTeX/tex/latex/xsim/xsimverb.sty" 1644675661 10308 0ecb0ac139d5c460400042bd3f3f4641 ""
-  "c:/Users/grego/Documents/code/MVA_code/ML_for_time_series/TP2/report.tex" 1732012458 11102 36b3f5a620ac0aec6759b9f94f4caef5 ""
+  "c:/Users/grego/Documents/code/MVA_code/ML_for_time_series/TP2/report.tex" 1732024649 11084 99d5c73fc3a609f33956cf55322dba1c ""
   "images/acf1.pdf" 1731938829 9245 ed21d700cd7d8156783e106eb3aed97a ""
   "images/acf2.pdf" 1731938829 9348 9f285dab6890f63433cb4a7af51149da ""
-  "report.aux" 1732012464 1832 14d899f576e57791a1f8d0a2629cdafa "pdflatex"
-  "report.out" 1732012464 492 39fb02968b85b141fbeb88f675df1565 "pdflatex"
-  "report.tex" 1732012458 11102 36b3f5a620ac0aec6759b9f94f4caef5 ""
-  "report.xsim" 1732012464 9985 70cc01dbd4e12d26e059c93ee6c5b5c7 "pdflatex"
+  "images/q4_1.png" 1732024542 18042 93cec8f8d4e41cbcd086078ef1249946 ""
+  "images/q4_2.png" 1732024536 52213 1135c623891c1422f8c2f257220df8a5 ""
+  "report.aux" 1732024649 1832 14d899f576e57791a1f8d0a2629cdafa "pdflatex"
+  "report.out" 1732024649 492 39fb02968b85b141fbeb88f675df1565 "pdflatex"
+  "report.tex" 1732024649 11084 99d5c73fc3a609f33956cf55322dba1c ""
+  "report.xsim" 1732024649 9967 dae397a8cd2c4ffde244ab32532d446d "pdflatex"
   "shortcuts.sty" 1731938829 4090 d2916484b556c48b7530cf28c2d8f7ad ""
   "theme.sty" 1731938828 18971 ec420909447e9809c81dd3dde09fd973 ""
   (generated)
