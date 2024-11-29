@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.7)  19 NOV 2024 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.7)  28 NOV 2024 09:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,43 +909,43 @@ LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 5
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 ) [1
 
-{C:/Users/grego/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+{C:/Users/grego/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
  []
 
-[3] [4]
-<images/acf1.pdf, id=90, 433.62pt x 216.81pt>
+[4] [5]
+<images/acf1.pdf, id=94, 433.62pt x 216.81pt>
 File: images/acf1.pdf Graphic file (type pdf)
 <use images/acf1.pdf>
-Package pdftex.def Info: images/acf1.pdf  used on input line 164.
+Package pdftex.def Info: images/acf1.pdf  used on input line 165.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
-<images/acf2.pdf, id=91, 433.62pt x 216.81pt>
+<images/acf2.pdf, id=95, 433.62pt x 216.81pt>
 File: images/acf2.pdf Graphic file (type pdf)
 <use images/acf2.pdf>
-Package pdftex.def Info: images/acf2.pdf  used on input line 164.
+Package pdftex.def Info: images/acf2.pdf  used on input line 165.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
-<example-image-golden.pdf, id=92, 324.82053pt x 200.75pt>
+<example-image-golden.pdf, id=96, 324.82053pt x 200.75pt>
 File: example-image-golden.pdf Graphic file (type pdf)
 <use example-image-golden.pdf>
-Package pdftex.def Info: example-image-golden.pdf  used on input line 181.
+Package pdftex.def Info: example-image-golden.pdf  used on input line 182.
 (pdftex.def)             Requested size: 324.81972pt x 200.7495pt.
 File: example-image-golden.pdf Graphic file (type pdf)
 <use example-image-golden.pdf>
-Package pdftex.def Info: example-image-golden.pdf  used on input line 181.
+Package pdftex.def Info: example-image-golden.pdf  used on input line 182.
 (pdftex.def)             Requested size: 324.81972pt x 200.7495pt.
- [5 <./images/acf1.pdf> <./images/acf2.pdf> <C:/Users/grego/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-golden.pdf>]
-<images/q4_1.png, id=158, 406.1574pt x 312.2064pt>
+ [6 <./images/acf1.pdf> <./images/acf2.pdf> <C:/Users/grego/AppData/Local/Programs/MiKTeX/tex/latex/mwe/example-image-golden.pdf>]
+<images/q4_1.png, id=162, 416.2752pt x 327.3831pt>
 File: images/q4_1.png Graphic file (type png)
 <use images/q4_1.png>
-Package pdftex.def Info: images/q4_1.png  used on input line 225.
-(pdftex.def)             Requested size: 406.1564pt x 312.20564pt.
-<images/q4_2.png, id=160, 408.3255pt x 312.2064pt>
+Package pdftex.def Info: images/q4_1.png  used on input line 226.
+(pdftex.def)             Requested size: 416.27419pt x 327.3823pt.
+<images/q4_2.png, id=164, 708.246pt x 380.1402pt>
 File: images/q4_2.png Graphic file (type png)
 <use images/q4_2.png>
-Package pdftex.def Info: images/q4_2.png  used on input line 225.
-(pdftex.def)             Requested size: 408.3245pt x 312.20564pt.
- [6 <./images/q4_1.png> <./images/q4_2.png>] (report.aux (report.xsim))
+Package pdftex.def Info: images/q4_2.png  used on input line 226.
+(pdftex.def)             Requested size: 708.24426pt x 380.13925pt.
+ [7 <./images/q4_1.png> <./images/q4_2.png>] (report.aux (report.xsim))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -954,17 +954,17 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 39FB02968B85B141FBEB88F675DF1565;492.
  ) 
 Here is how much of TeX's memory you used:
- 30307 strings out of 474495
- 598815 string characters out of 5743936
+ 30308 strings out of 474495
+ 598916 string characters out of 5743936
  1943460 words of memory out of 5000000
  51967 multiletter control sequences out of 15000+600000
  599029 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,18n,121p,5890b,680s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\grego\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/grego/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (6 pages, 270191 bytes).
+Output written on report.pdf (7 pages, 321456 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
